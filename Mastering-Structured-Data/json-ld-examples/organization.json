@@ -1,0 +1,30 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Simpl-Search",
+  "url": "https://simplsearch.net/",
+  "logo": "https://simplsearch.net/uploads/2020/06/Search-small-web.png",
+  "sameAs": [
+    "https:///facebook.com",
+    "https:///youtube.com",
+    "https:///twitter.com",
+    "https:///linkedin.com"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "(885) 555-7775",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": "en"
+    },
+    {
+      "@type": "ContactPoint",
+      "email": "info@simplsearch.net",
+      "contactType": "customer service",
+      "areaServed": "US"
+    }
+  ]
+}
+</script>

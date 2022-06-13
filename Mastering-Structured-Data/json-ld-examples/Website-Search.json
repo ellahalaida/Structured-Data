@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Search",
+  "url": "https://example.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://exaple.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>

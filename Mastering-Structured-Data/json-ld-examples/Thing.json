@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Thing",
+  "name": "Schema.org",
+  "alternateName": [
+    "Schema Markup"
+  ],
+  "sameAs": [
+    "http://dbpedia.org/page/Schema.org",
+    "http://www.wikidata.org/entity/Q3475322"
+  ],
+  "url": "https://examples.com/schema-examples/thing-markup/",
+  "description": "Schema.org is a collaborative, community activity with a mission to create, maintain schemas for structured data.",
+  "image": "https://example.com/wp-content/uploads/2020/11/schema-org-arial-1-300x169.png"
+}
+</script>

@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "John Doe",
+  "url": "https://examples.com",
+  "image": "https://examples.com/uploads/2020/11/Sqaure-300x300.jpg",
+  "jobTitle": "CEO",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "SS"
+  },
+  "sameAs": [
+    "https://youtube.com",
+    "https://twitter.com",
+    "https://linkedin.com"
+  ]
+}
+</script>
